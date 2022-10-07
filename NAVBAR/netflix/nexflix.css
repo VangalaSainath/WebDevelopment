@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.Bimg{
+    background-image:url(../);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.Bimg2{
+    height: 100vh;
+    width: 100%;
+}
+.sec1{
+    width: 100%;
+    height: 70px;
+    padding-top: 10px;
+
+}
+.article{
+    width: 90%;
+    height: 70px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width:50%;
+    height: 50px;
+    fill: crimson;
+    display:flex-start;
+    padding-top: 10px;
+
+}
+article1 a{
+    background-color: chartreuse;
+    padding: 6px 10px;
+
+
+}
